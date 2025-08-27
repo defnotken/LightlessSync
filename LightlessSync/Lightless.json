@@ -1,0 +1,20 @@
+{
+  "Author": "Zura",
+  "Name": "Lightless Sync",
+  "InternalName": "Lightless",
+  "AssemblyVersion": "0.8.35.0",
+  "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Light-Public-Syncshells/LightlessClient",
+  "Tags": [
+    "customization"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Light-Public-Syncshells/LightlessSync/refs/heads/main/LightlessSync/icon.png",
+  "Punchline": "Let others see you as you see yourself.",
+  "AcceptsFeedback": true
+}
